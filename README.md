@@ -101,6 +101,10 @@ with `npm run mod:takao_core2_sg90 -- <path to mod manifest>`.
 
 Keep fingers clear of the neck joint while the servos move. Do not leave the Li-ion battery charging unattended.
 
+## Bill of Material
+
+[Bill of Material (PDF)](docs/Stack-chan%20SG90%20Core2%20Robot%20-%20Bill%20of%20Material.pdf): every part to buy, with shop links.
+
 ## Documentation download
 
 This repository is the documentation and source download for the build.
